@@ -1,0 +1,26 @@
+<annotation>
+	<folder>defect</folder>
+	<filename>020.jpg</filename>
+	<path>F:\github\ssd-master\data\VOC\sezhiwu\defect\020.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>defect</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>162</xmin>
+			<ymin>11</ymin>
+			<xmax>203</xmax>
+			<ymax>141</ymax>
+		</bndbox>
+	</object>
+</annotation>
